@@ -1,10 +1,10 @@
 [![@fattanhbrz_'s Holopin board](https://holopin.io/api/user/board?user=fattanhbrz_)](https://holopin.io/@fattanhbrz_)
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
+<p align="center" margin-bottom="10">
 <a href="https://twitter.com/fattanhbrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fattanhbrz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fattan-h-91203b242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fattan hibrizi" height="30" width="40" /></a>
-<a href="https://instagram.com/fattanhbrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fattanhbrz" height="30" width="40" /></a>
+<a href="https://instagram.com/fattanhbrz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fattanhbrz" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
