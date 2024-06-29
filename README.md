@@ -59,18 +59,15 @@
   &emsp;
 </p>
 
-<br/>
 
-
-## 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href="#"><img src="(https://img.icons8.com/?size=50&id=63807&format=png&color=000000" alt="Website"/></a>
-	<a href="mailto:fattanhibrizi@gmail.com"><img src="https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail"/></a>
-	<a href="https://github.com/fxttn05"><img src="https://img.icons8.com/?size=50&id=12599&format=png&color=000000" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/mohammad-fattan-hibrizi"><img src="https://img.icons8.com/?size=50&id=13930&format=png&color=000000" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/"><img src="https://img.icons8.com/?size=50&id=118497&format=png&color=000000" alt="Facebook"/></a>
-	<a href="https://instagram.com/fattanhbrz_"><img src="https://img.icons8.com/?size=50&id=32323&format=png&color=000000" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/@Fattan20"><img src="https://img.icons8.com/?size=50&id=19318&format=png&color=000000" alt="Youtube"/></a>
+  	<a href="#"><img src="https://img.icons8.com/?size=30&id=63807&format=png&color=000000" alt="Website"/></a>
+	<a href="mailto:fattanhibrizi@gmail.com"><img src="https://img.icons8.com/?size=30&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail"/></a>
+	<a href="https://github.com/fxttn05"><img src="https://img.icons8.com/?size=30&id=AZOZNnY73haj&format=png&color=000000" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/mohammad-fattan-hibrizi"><img src="https://img.icons8.com/?size=30&id=13930&format=png&color=000000" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/"><img src="https://img.icons8.com/?size=30&id=118497&format=png&color=000000" alt="Facebook"/></a>
+	<a href="https://instagram.com/fattanhbrz_"><img src="https://img.icons8.com/?size=30&id=32323&format=png&color=000000" alt="Instagram"/></a>
+	<a href="https://www.youtube.com/@Fattan20"><img src="https://img.icons8.com/?size=30&id=19318&format=png&color=000000" alt="Youtube"/></a>
 	
 </p>
 
