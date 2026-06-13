@@ -1,11 +1,10 @@
-<h1 align="center">Hi , I'm Mohammad Fattan Hibrizi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Mohammad Fattan Hibrizi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+System+Student;Frontend+Web+Developer;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+System+Student;Junior+Web+Developer;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=40"></a>
 </p>
-<hr/>
-<h4 align="center">hello, I'm a Junior Frontend Developer, I'm also a student at the university. I'm interested in computers and information technology, I'm always learning new things and like new challenges.</h4>
+<h4 align="center">hello, I'm a Junior Website Developer, I'm also a student at the university. I'm interested in computers and information technology, I'm always learning new things and like new challenges.</h4>
 
-<h2 align="center">Languages & Tools</h1>
+<hr/>
 
 <p align="center"> 
   &nbsp;
@@ -61,10 +60,7 @@
 	<a href="mailto:fattanhibrizi@gmail.com"><img src="https://img.icons8.com/?size=30&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail"/></a>
 	<a href="https://github.com/fxttn05"><img src="https://img.icons8.com/?size=30&id=AZOZNnY73haj&format=png&color=000000" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/mohammad-fattan-hibrizi"><img src="https://img.icons8.com/?size=30&id=13930&format=png&color=000000" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/mohammadfattan.hibrizi"><img src="https://img.icons8.com/?size=30&id=118497&format=png&color=000000" alt="Facebook"/></a>
-	<a href="https://instagram.com/fattanhbrz_"><img src="https://img.icons8.com/?size=30&id=32323&format=png&color=000000" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/@Fattan20"><img src="https://img.icons8.com/?size=30&id=19318&format=png&color=000000" alt="Youtube"/></a>
 </p>
 
 * Credit: [Fxttn05](https://github.com/fxttn05)
-* Last Edited on: 27/03/2025
+* Last Edited on: 13/06/2026
